@@ -7,6 +7,8 @@
 
   remote_user: root
 
+  version 0.0.1
+
   tasks:
   - name: ensure apache is at the latest version
     yum:
